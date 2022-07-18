@@ -22,6 +22,6 @@ Create a .env file for your <br />
 and ***ETHERSCAN_API_KEY*** to verify the contract after deployment.
 
 ### Preview
-Contract has been deployed on [Rinkeby Testnet](https://rinkeby.etherscan.io) at [***0x88AE1eAdEF7e806fb40E36BAc1C8f36e2E61f7D5***](https://rinkeby.etherscan.io/address/0x88ae1eadef7e806fb40e36bac1c8f36e2e61f7d5) and verified!
+Contract has been deployed on [Rinkeby Testnet](https://rinkeby.etherscan.io) at [***0x88AE1eAdEF7e806fb40E36BAc1C8f36e2E61f7D5***](https://rinkeby.etherscan.io/address/0x88ae1eadef7e806fb40e36bac1c8f36e2e61f7d5) and ***verified!***
 
 [REIT.sol](https://github.com/cnrcoo/REIT-Solidity/blob/master/contracts/REIT.sol) can also be used on [Remix](https://remix.ethereum.org/).
